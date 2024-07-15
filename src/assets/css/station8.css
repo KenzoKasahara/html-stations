@@ -1,0 +1,44 @@
+body {
+    background-color: #C4C4C4;
+}
+
+header {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: #ffffff;
+}
+
+.frexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 50px;
+}
+
+.card__header{
+    background-color: #ffffff;
+}
+
+.card__title {
+    color: #3908fb;
+    font-size: 14px;
+}
+
+.card__description {
+    color: #282828;
+    font-size: 12px;
+}
+
+.card__img-top {
+    width: 288px;
+    height: 182px;
+    margin-bottom: 5px;
+}
